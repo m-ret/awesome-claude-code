@@ -164,3 +164,8 @@ Built for use with [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
 ---
 
 *Found this useful? Star the repo and share with others!*
+
+## Author
+
+- [marceloretana.com](https://marceloretana.com)
+- [gexpsoftware.com](https://gexpsoftware.com)
