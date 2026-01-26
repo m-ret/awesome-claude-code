@@ -1,5 +1,7 @@
 # Awesome Claude Code
 
+Blog post: https://www.marceloretana.com/blog/how-i-10x-my-coding-with-claude-code
+
 A curated collection of configurations, commands, skills, and templates for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's agentic coding tool.
 
 ## What's Inside
